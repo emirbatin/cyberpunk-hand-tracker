@@ -36,4 +36,4 @@ python main.py
 - **Python** - Core programming language
 
 ## 📸 Preview
-![Cyberpunk Hand Tracker Demo](https://i.imgur.com/qqvhjL9.gif)
+![Cyberpunk Hand Tracker Demo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25xaTRwbXMxZTNtMmNjZWMycm9scTJxd3NwdDAyNTE1cGpjMTloaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wm18hF0a731AkjpEy1/giphy.gif)
