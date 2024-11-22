@@ -36,4 +36,4 @@ python main.py
 - **Python** - Core programming language
 
 ## 📸 Preview
-
+![Demo](https://imgur.com/a/qqvhjL9)
